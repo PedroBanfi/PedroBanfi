@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 
 
 Olá, eu sou Pedro Gabriel! | Hi there, I'm Pedro Gabriel!

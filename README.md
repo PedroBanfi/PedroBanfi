@@ -16,3 +16,6 @@ Atualmente sou estudante no IFC - Intituto Federal Catarinense; | I am currently
 Estou no primeiro ano e curso tecnico para informática. | I'm in the first year of a technical course in computer science.
 </li>
 <ul>
+
+Readme.MD:
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />

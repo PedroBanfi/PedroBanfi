@@ -18,4 +18,4 @@ Estou no primeiro ano e curso tecnico para informática. | I'm in the first year
 <ul>
 
 Readme.MD:
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/pedroBanfi/pedroBanfi/output/snake.svg" alt="Snake animation" />
